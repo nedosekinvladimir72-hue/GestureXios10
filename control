@@ -1,0 +1,9 @@
+Package: com.gesturex.ios10
+Name: GestureX
+Version: 0.2.0
+Architecture: iphoneos-arm
+Description: Experimental iPhone X-style gesture and Home Indicator prototype for iOS 10.
+Maintainer: GestureX
+Author: GestureX
+Section: Tweaks
+Depends: mobilesubstrate
